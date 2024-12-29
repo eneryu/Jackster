@@ -66,5 +66,5 @@ npm run dev
 ## 📞 تواصل معنا
 
 - واتس اب: 01014023583
-- فيس بوك: [@jackster_edu](https://www.facebook.com/jack2xii)
+- فيس بوك: [@Jack](https://www.facebook.com/jack2xii)
 - إيميل: jackezt2@gmail.com
