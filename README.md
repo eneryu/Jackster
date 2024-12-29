@@ -26,7 +26,7 @@
 
 1. نسخ المشروع:
 \`\`\`bash
-git clone https://github.com/yourusername/jackster.git
+git clone https://github.com/eneryu/jackster.git
 cd jackster
 \`\`\`
 
